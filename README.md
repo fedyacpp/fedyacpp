@@ -42,7 +42,7 @@ const fedyacpp = {
 
 I'm always open to discussing new projects, technologies, or potential collaborations. Feel free to connect with me:
 
-- Discord: [fedyacpp](discord.com/users/fedyacpp)
+- Discord: [fedyacpp](https://discord.com/users/fedyacpp)
 
 ---
 
