@@ -1,43 +1,43 @@
-## Welcome to fedyacpp's GitHub Space! 👨‍💻
+### Who's fedyacpp?
 
-### 🌟 About Me
+Hey! I'm fedyacpp, your friendly neighborhood developer. I get a kick out of exploring new web technologies and turning ideas into reality. If you're curious about what makes me tick, here's a snapshot:
 
-As a developer, I'm endlessly curious about the latest web technologies and how they can be leveraged to build amazing projects. I specialize in:
+- Crafting bots with **Discord.js**.
+- Building slick, static sites using **Nuxt.js**.
+- Making server-side magic happen with **Node.js**.
 
-- 🤖 **Discord.js**: Crafting feature-rich bots for myself.
-- 🚀 **Nuxt.js**: Building simple static sites.
-- 💻 **Node.js**: Developing server-side logic.
+### What Am I Up To?
 
-### 🔍 Current Projects
+I've got a few projects cooking. Check the latest out:
 
-Here are some of the highlights of my work:
+- **BlumClicker**: An auto clicker for Blum's Drop Game, powered by an additionaly trained convolutional neural network (YOLOv5).
 
-- **idunnohowtonamethisproject**: An OpenAI-like API, my latest and most complex project at the moment.
+### Quick Peek Under the Hood
 
-### 🚀 Quick Bits
+Here’s a little more about my skills and what I'm working with:
 
 ```js
 const fedyacpp = {
     pronouns: "He" | "Him",
-    bornIn: ["Moscow", "Russia"],
-    code: ["JavaScript", "Python", "C++", "Java", "Kotlin"],
-    askMeAbout: ["Reverse engineering"],
-    technologies: {
+    hometown: "Moscow, Russia",
+    languages: ["JavaScript", "Python", "C++", "Java", "Kotlin"],
+    interests: ["Reverse engineering", "Machine learning"],
+    tools: {
         frontEnd: {
-            js: ["Vue", "Nuxt"],
-            css: ["Bootstrap", "Tailwind"],
+            frameworks: ["Vue", "Nuxt"],
+            styles: ["Bootstrap", "Tailwind"],
         },
         backEnd: {
-            js: ["Node", "Express"],
+            frameworks: ["Node", "Express"],
         },
         databases: ["MySQL"],
     },
-    currentProject: "idunnohowtonamethisproject"
+    currentProject: "BlumClicker"
 };
 ```
 
-### 📫 How to Reach Me
+### Reach Out!
 
-I'm always open to discussing new projects, technologies, or potential collaborations. Feel free to connect with me:
+Got a cool project idea or just want to chat about tech? Hit me up on Discord:
 
-- Discord: [fedyacpp](https://discord.com/users/fedyacpp)
+- **Discord**: [fedyacpp](https://discord.com/users/fedyacpp)
