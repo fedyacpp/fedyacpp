@@ -1,21 +1,6 @@
-### Who's fedyacpp?
-
-Hey! I'm fedyacpp, your friendly neighborhood developer. I get a kick out of exploring new web technologies and turning ideas into reality. If you're curious about what makes me tick, here's a snapshot:
-
-- Crafting bots with **Discord.js**.
-- Building slick, static sites using **Nuxt.js**.
-- Making server-side magic happen with **Node.js**.
-
-### What Am I Up To?
-
-I've got a few projects cooking. Check the latest out:
-
-- **BlumClicker**: An auto clicker for Blum's Drop Game, powered by an additionaly trained convolutional neural network (YOLOv5).
-
-### Quick Peek Under the Hood
-
-Here’s a little more about my skills and what I'm working with:
-
+# Who's this guy?
+I'm a 15-year-old junior developer with a focus on web development and machine learning.
+## Technical Skills
 ```js
 const fedyacpp = {
     pronouns: "He" | "Him",
@@ -32,12 +17,18 @@ const fedyacpp = {
         },
         databases: ["MySQL"],
     },
-    currentProject: "BlumClicker"
+    currentProject: "fnaf1bot"
 };
 ```
-
-### Reach Out!
-
-Got a cool project idea or just want to chat about tech? Hit me up on Discord:
-
+## What do I like?
+- **Reverse Engineering**: Passionate about exploring and understanding the inner workings of software systems. Skilled in analyzing and reverse-engineering code. Developed APIs for accessing AI models by reverse-engineering websites.
+- **Machine Learning**: Highly interested in machine learning projects, particularly those involving object recognition in images.
+## Projects
+### BlumClicker
+An auto clicker for Blum's Drop Game, powered by a trained convolutional neural network (YOLOv5). The project aims to automate blum points farming. Currently, the project is considered complete.
+### fnaf1bot
+A work-in-progress project based on the same YOLOv5 network, which aims to automate the process of beating the game Five Nights at Freddy's (FNAF1). The project involves developing a bot capable of completing the game autonomously. Currently focusing on object recognition within the game images.
+## Contact
+If you have any inquiries, project proposals, or would like to discuss potential collaborations, feel free to reach out to me:
 - **Discord**: [fedyacpp](https://discord.com/users/fedyacpp)
+- **Telegram**: [fedyacpp](https://t.me/fedyacpp)
