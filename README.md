@@ -25,9 +25,9 @@ const fedyacpp = {
 - **Machine Learning**: Highly interested in machine learning projects, particularly those involving object recognition in images.
 ## Projects
 ### BlumClicker
-An auto clicker for Blum's Drop Game, powered by a trained convolutional neural network (YOLOv5). The project aims to automate blum points farming. Currently, the project is considered complete.
+An auto clicker for Blum's Drop Game, powered by a trained convolutional neural network (YOLOv8). The project aims to automate blum points farming. Currently, the project is considered complete.
 ### fnaf1bot
-A work-in-progress project based on the same YOLOv5 network, which aims to automate the process of beating the game Five Nights at Freddy's (FNAF1). The project involves developing a bot capable of completing the game autonomously. Currently focusing on object recognition within the game images.
+A work-in-progress project based on the same YOLOv8 network, which aims to automate the process of beating the game Five Nights at Freddy's (FNAF1). The project involves developing a bot capable of completing the game autonomously. Currently focusing on object recognition within the game images.
 ## Contact
 If you have any inquiries, project proposals, or would like to discuss potential collaborations, feel free to reach out to me:
 - **Discord**: [fedyacpp](https://discord.com/users/fedyacpp)
