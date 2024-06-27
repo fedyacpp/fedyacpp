@@ -1,6 +1,20 @@
-# Who's this guy?
-I'm a 15-year-old junior developer with a focus on web development and machine learning.
-## Technical Skills
+# Who's this guy? 
+
+I'm a 15-year-old junior developer passionate about web development and machine learning.
+
+![Profile Views](https://komarev.com/ghpvc/?username=fedyacpp&color=blueviolet)
+[![GitHub followers](https://img.shields.io/github/followers/fedyacpp?label=Follow&style=social)](https://github.com/fedyacpp)
+
+## GitHub Stats 📊
+
+![fedyacpp's GitHub stats](https://github-readme-stats.vercel.app/api?username=fedyacpp&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fedyacpp&layout=compact&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fedyacpp&theme=radical)](https://git.io/streak-stats)
+
+## Technical Skills 🚀
+
 ```js
 const fedyacpp = {
     pronouns: "He" | "Him",
@@ -17,18 +31,32 @@ const fedyacpp = {
         },
         databases: ["MySQL"],
     },
-    currentProject: "fnaf1bot"
+    currentProject: ""
 };
 ```
-## What do I like?
-- **Reverse Engineering**: Passionate about exploring and understanding the inner workings of software systems. Skilled in analyzing and reverse-engineering code. Developed APIs for accessing AI models by reverse-engineering websites.
-- **Machine Learning**: Highly interested in machine learning projects, particularly those involving object recognition in images.
-## Projects
+
+## What do I like? 🤔
+
+- **Reverse Engineering**: Exploring the inner workings of software systems is my passion. I excel at analyzing and reverse-engineering code, and have developed APIs for accessing AI models by reverse-engineering websites.
+- **Machine Learning**: Deeply fascinated by machine learning projects, especially those involving object recognition in images.
+
+## Projects 🛠️
+
 ### BlumClicker
-An auto clicker for Blum's Drop Game, powered by a trained convolutional neural network (YOLOv8). The project aims to automate blum points farming. Currently, the project is considered complete.
-### fnaf1bot
-A work-in-progress project based on the same YOLOv8 network, which aims to automate the process of beating the game Five Nights at Freddy's (FNAF1). The project involves developing a bot capable of completing the game autonomously. Currently focusing on object recognition within the game images.
-## Contact
-If you have any inquiries, project proposals, or would like to discuss potential collaborations, feel free to reach out to me:
-- **Discord**: [fedyacpp](https://discord.com/users/fedyacpp)
-- **Telegram**: [fedyacpp](https://t.me/fedyacpp)
+[![Status](https://img.shields.io/badge/Status-Completed-brightgreen)](https://github.com/fedyacpp/BlumClicker)
+
+An automated clicker for Blum's Drop Game, powered by a custom-trained YOLOv8 convolutional neural network. This project automates blum points farming and is currently complete.
+
+### fnaf1bot (currently dropped)
+[![Status](https://img.shields.io/badge/Status-On%20Hold-yellow)](https://github.com/fedyacpp/fnaf1bot)
+
+An ambitious project utilizing the YOLOv8 network to create a bot capable of autonomously beating Five Nights at Freddy's (FNAF1). The current focus is on perfecting object recognition within game images.
+
+## Let's Connect! 🌐
+
+Got a cool project idea or want to collaborate? I'd love to hear from you:
+
+[![Discord](https://img.shields.io/badge/Discord-fedyacpp-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/fedyacpp)
+[![Telegram](https://img.shields.io/badge/Telegram-fedyacpp-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fedyacpp)
+
+Feel free to reach out for inquiries, project proposals, or potential collaborations!
