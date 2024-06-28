@@ -4,7 +4,6 @@ I'm a 15-year-old junior developer passionate about web development and machine 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fedyacpp&color=blueviolet)
 [![GitHub followers](https://img.shields.io/github/followers/fedyacpp?label=Follow&style=social)](https://github.com/fedyacpp)
-[![wakatime](https://wakatime.com/badge/user/018c9a3a-6f1b-4d4f-8e93-f8e0c2c39b4b.svg)](https://wakatime.com/@018c9a3a-6f1b-4d4f-8e93-f8e0c2c39b4b)
 
 ## 📊 GitHub Stats
 
