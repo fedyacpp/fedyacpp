@@ -69,7 +69,6 @@ An automated clicker for Blum's Drop Game, powered by a custom-trained YOLOv8 co
 
 ### fnaf1bot (currently dropped)
 [![Status](https://img.shields.io/badge/Status-On%20Hold-yellow)](https://github.com/fedyacpp/fnaf1bot)
-[![GitHub stars](https://img.shields.io/github/stars/fedyacpp/fnaf1bot?style=social)](https://github.com/fedyacpp/fnaf1bot/stargazers)
 
 An ambitious project utilizing the YOLOv8 network to create a bot capable of autonomously beating Five Nights at Freddy's (FNAF1). The current focus is on perfecting object recognition within game images.
 
