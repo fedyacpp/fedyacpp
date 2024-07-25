@@ -1,6 +1,6 @@
 # Who's this guy?
 
-I'm a 15-year-old junior developer passionate about web development and machine learning.
+I'm a 15-year-old junior developer passionate about web and server development and machine learning.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fedyacpp&color=blueviolet)
 [![GitHub followers](https://img.shields.io/github/followers/fedyacpp?label=Follow&style=social)](https://github.com/fedyacpp)
