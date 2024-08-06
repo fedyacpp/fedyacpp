@@ -67,16 +67,17 @@ const fedyacpp = {
 
 An automated clicker for Blum's Drop Game, powered by a custom-trained YOLOv8 convolutional neural network. This project automates blum points farming and is currently complete.
 
+
 ### fnaf1bot (currently dropped)
-[![Status](https://img.shields.io/badge/Status-On%20Hold-yellow)](https://github.com/fedyacpp/fnaf1bot)
+[![Status](https://img.shields.io/badge/Status-Dropped-red)](https://github.com/fedyacpp/fnaf1bot)
 
 An ambitious project utilizing the YOLOv8 network to create a bot capable of autonomously beating Five Nights at Freddy's (FNAF1). The current focus is on perfecting object recognition within game images.
 
 ### anotherRandomApi
-[![Status](https://img.shields.io/badge/Status-In%20Progress-blue)](https://github.com/fedyacpp/anotherRandomApi)
+[![Status](https://img.shields.io/badge/Status-Dropped-red)](https://github.com/fedyacpp/anotherRandomApi)
 [![GitHub stars](https://img.shields.io/github/stars/fedyacpp/anotherRandomApi?style=social)](https://github.com/fedyacpp/anotherRandomApi/stargazers)
 
-A GPT4FREE-like API written in JS, nothing special
+Dropped and archived as I made it private and hosted it, API's up abd running, for more info join. No model limits, only rate limits for free users - https://discord.com/invite/6zUa9ZzDrp
 
 ## 🌐 Let's Connect!
 
