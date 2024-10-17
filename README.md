@@ -70,7 +70,7 @@ An automated clicker for Blum's Drop Game, powered by a custom-trained YOLOv8 co
 ### 🔒 telegram-mesh-bot
 [![Status](https://img.shields.io/badge/Status-Private-lightgrey)](https://github.com/fedyacpp/telegram-mesh-bot)
 
-A private project focused on reverse engineering the [МЭШ](https://school.mos.ru) API to develop a Telegram bot. This project aims to integrate МЭШ functionalities into a Telegram interface, allowing users to interact with МЭШ services seamlessly.
+A **currently** private project focused on reverse engineering the [МЭШ](https://school.mos.ru) API to develop a Telegram bot. This project aims to integrate МЭШ functionalities into a Telegram interface, allowing users to interact with МЭШ services seamlessly.
 
 ## 🌐 Let's Connect!
 
