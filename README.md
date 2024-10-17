@@ -1,6 +1,6 @@
-# Who's this guy?
+# 👋 Hi, I'm fedyacpp
 
-I'm a 15-year-old junior developer passionate about web and server development and machine learning.
+I'm a 15-year-old junior developer passionate about web and server development, as well as machine learning.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fedyacpp&color=blueviolet)
 [![GitHub followers](https://img.shields.io/github/followers/fedyacpp?label=Follow&style=social)](https://github.com/fedyacpp)
@@ -12,21 +12,21 @@ I'm a 15-year-old junior developer passionate about web and server development a
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedyacpp&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedyacpp&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fedyacpp&theme=radical" alt="GitHub Streak" />
 </p>
 
-## 🚀 Technical Skills
+## 🛠️ Technical Skills
 
-```js
+```javascript
 const fedyacpp = {
     pronouns: "He" | "Him",
     hometown: "Moscow, Russia",
     languages: ["JavaScript", "Python", "C++", "Java", "Kotlin"],
-    interests: ["Reverse engineering", "Machine learning"],
+    interests: ["Reverse Engineering", "Machine Learning"],
     tools: {
         frontEnd: {
             frameworks: ["Vue", "Nuxt"],
@@ -41,7 +41,7 @@ const fedyacpp = {
 };
 ```
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
@@ -54,30 +54,29 @@ const fedyacpp = {
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-## 🤔 What do I like?
+## 🤔 Interests
 
-- **Reverse Engineering**: Exploring the inner workings of software systems is my passion. I excel at analyzing and reverse-engineering code, and have developed APIs for accessing AI models by reverse-engineering websites.
+- **Reverse Engineering**: I enjoy exploring the inner workings of software systems. I excel at analyzing and reverse-engineering code and have developed APIs for accessing AI models by reverse-engineering websites.
 - **Machine Learning**: Deeply fascinated by machine learning projects, especially those involving object recognition in images.
 
 ## 🚀 Projects
 
-### BlumClicker
+### 🟢 BlumClicker
 [![Status](https://img.shields.io/badge/Status-Completed-brightgreen)](https://github.com/fedyacpp/BlumClicker)
 [![GitHub stars](https://img.shields.io/github/stars/fedyacpp/BlumClicker?style=social)](https://github.com/fedyacpp/BlumClicker/stargazers)
 
-An automated clicker for Blum's Drop Game, powered by a custom-trained YOLOv8 convolutional neural network. This project automates blum points farming and is currently complete.
+An automated clicker for Blum's Drop Game, powered by a custom-trained YOLOv8 convolutional neural network. This project automates farming Blum points and is currently complete.
 
-
-### fnaf1bot (currently dropped)
-[![Status](https://img.shields.io/badge/Status-Dropped-red)](https://github.com/fedyacpp/fnaf1bot)
+### 🟡 fnaf1bot (Currently Dropped)
+[![Status](https://img.shields.io/badge/Status-Paused-red)](https://github.com/fedyacpp/fnaf1bot)
 
 An ambitious project utilizing the YOLOv8 network to create a bot capable of autonomously beating Five Nights at Freddy's (FNAF1). The current focus is on perfecting object recognition within game images.
 
-### anotherRandomApi
-[![Status](https://img.shields.io/badge/Status-Dropped-red)](https://github.com/fedyacpp/anotherRandomApi)
+### 🔴 anotherRandomApi
+[![Status](https://img.shields.io/badge/Status-Archived-red)](https://github.com/fedyacpp/anotherRandomApi)
 [![GitHub stars](https://img.shields.io/github/stars/fedyacpp/anotherRandomApi?style=social)](https://github.com/fedyacpp/anotherRandomApi/stargazers)
 
-Dropped and archived as I made it private and hosted it, API's up abd running, for more info join. No model limits, only rate limits for free users - https://discord.com/invite/6zUa9ZzDrp
+Dropped and archived.
 
 ## 🌐 Let's Connect!
 
