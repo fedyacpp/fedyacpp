@@ -37,7 +37,7 @@ const fedyacpp = {
         },
         databases: ["MySQL"],
     },
-    currentProject: "anotherRandomApi"
+    currentProject: "telegram-mesh-bot"
 };
 ```
 
@@ -59,7 +59,7 @@ const fedyacpp = {
 - **Reverse Engineering**: I enjoy exploring the inner workings of software systems. I excel at analyzing and reverse-engineering code and have developed APIs for accessing AI models by reverse-engineering websites.
 - **Machine Learning**: Deeply fascinated by machine learning projects, especially those involving object recognition in images.
 
-## 🚀 Projects
+## 🚀 Public Projects
 
 ### 🟢 BlumClicker
 [![Status](https://img.shields.io/badge/Status-Completed-brightgreen)](https://github.com/fedyacpp/BlumClicker)
@@ -67,16 +67,10 @@ const fedyacpp = {
 
 An automated clicker for Blum's Drop Game, powered by a custom-trained YOLOv8 convolutional neural network. This project automates farming Blum points and is currently complete.
 
-### 🟡 fnaf1bot (Currently Dropped)
-[![Status](https://img.shields.io/badge/Status-Paused-red)](https://github.com/fedyacpp/fnaf1bot)
+### 🔒 telegram-mesh-bot
+[![Status](https://img.shields.io/badge/Status-Private-lightgrey)](https://github.com/fedyacpp/telegram-mesh-bot)
 
-An ambitious project utilizing the YOLOv8 network to create a bot capable of autonomously beating Five Nights at Freddy's (FNAF1). The current focus is on perfecting object recognition within game images.
-
-### 🔴 anotherRandomApi
-[![Status](https://img.shields.io/badge/Status-Archived-red)](https://github.com/fedyacpp/anotherRandomApi)
-[![GitHub stars](https://img.shields.io/github/stars/fedyacpp/anotherRandomApi?style=social)](https://github.com/fedyacpp/anotherRandomApi/stargazers)
-
-Dropped and archived.
+A private project focused on reverse engineering the [МЭШ](https://school.mos.ru) API to develop a Telegram bot. This project aims to integrate МЭШ functionalities into a Telegram interface, allowing users to interact with МЭШ services seamlessly.
 
 ## 🌐 Let's Connect!
 
