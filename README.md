@@ -65,7 +65,7 @@ const fedyacpp = {
 [![Status](https://img.shields.io/badge/Status-Completed-brightgreen)](https://github.com/fedyacpp/BlumClicker)
 [![GitHub stars](https://img.shields.io/github/stars/fedyacpp/BlumClicker?style=social)](https://github.com/fedyacpp/BlumClicker/stargazers)
 
-An automated clicker for Blum's Drop Game, powered by a custom-trained YOLOv8 convolutional neural network. This project automates farming Blum points and is currently complete.
+An automated clicker for Blum's Drop Game, powered by a custom-trained YOLOv11 convolutional neural network. This project automates farming Blum points and is currently complete.
 
 ### 🔒 telegram-mesh-bot
 [![Status](https://img.shields.io/badge/Status-Private-lightgrey)](https://github.com/fedyacpp/telegram-mesh-bot)
