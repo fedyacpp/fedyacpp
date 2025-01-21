@@ -1,25 +1,34 @@
-# 👋 Hi, I'm fedyacpp
-
-I'm a 15-year-old junior developer passionate about web and server development, as well as machine learning.
-
-![Profile Views](https://komarev.com/ghpvc/?username=fedyacpp&color=blueviolet)
-[![GitHub followers](https://img.shields.io/github/followers/fedyacpp?label=Follow&style=social)](https://github.com/fedyacpp)
-
-## 📊 GitHub Stats
+# ✨ Привет! Я **fedyacpp**!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fedyacpp&show_icons=true&theme=radical" alt="fedyacpp's GitHub stats" />
+  <img src="https://komarev.com/ghpvc/?username=fedyacpp&color=blueviolet" alt="Просмотров профиля" />
+  <a href="https://github.com/fedyacpp">
+    <img src="https://img.shields.io/github/followers/fedyacpp?label=Follow&style=social" alt="Подписчики на GitHub" />
+  </a>
+</p>
+
+> **15-летний разработчик**, увлечённый веб‑ и серверной разработкой, а также машинным обучением.  
+> Люблю разбирать код, создавать новые проекты и продюсировать треки.
+
+---
+
+## 🚀 Моя статистика на GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fedyacpp&show_icons=true&theme=radical" alt="Статистика fedyacpp" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedyacpp&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedyacpp&layout=compact&theme=radical" alt="Популярные языки" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fedyacpp&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fedyacpp&theme=radical" alt="Серия коммитов fedyacpp" />
 </p>
 
-## 🛠️ Technical Skills
+---
+
+## 🛠️ Мой стек и навыки
 
 ```javascript
 const fedyacpp = {
@@ -41,7 +50,7 @@ const fedyacpp = {
 };
 ```
 
-## 🚀 Tech Stack
+### ⚙️ Технологии
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
@@ -54,29 +63,46 @@ const fedyacpp = {
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-## 🤔 Interests
+---
 
-- **Reverse Engineering**: I enjoy exploring the inner workings of software systems. I excel at analyzing and reverse-engineering code and have developed APIs for accessing AI models by reverse-engineering websites.
-- **Machine Learning**: Deeply fascinated by machine learning projects, especially those involving object recognition in images.
+## 🤔 Чем я увлекаюсь
 
-## 🚀 Public Projects
+- **Reverse Engineering**  
+  Люблю копаться в чужом коде и изучать, как всё работает «под капотом». С удовольствием разрабатываю собственные API на основе анализа и реверс-инжиниринга веб-сервисов, в том числе связанных с ИИ.
+
+- **Машинное обучение**  
+  Увлекаюсь компьютерным зрением и обучением нейросетей. Мне интересно, как они распознают объекты, и как применить их в реальных проектах.
+
+---
+
+## 🌟 Публичные проекты
 
 ### 🟢 BlumClicker
 [![Status](https://img.shields.io/badge/Status-Completed-brightgreen)](https://github.com/fedyacpp/BlumClicker)
 [![GitHub stars](https://img.shields.io/github/stars/fedyacpp/BlumClicker?style=social)](https://github.com/fedyacpp/BlumClicker/stargazers)
 
-An automated clicker for Blum's Drop Game, powered by a custom-trained YOLOv11 convolutional neural network. This project automates farming Blum points and is currently complete.
+> Автоматический кликер для Blum'а, использующий специально обученную сверточную нейронную сеть YOLOv11. Он занимается фармом Blum'ов и уже успешно завершён.
 
 ### 🔒 telegram-mesh-bot
 [![Status](https://img.shields.io/badge/Status-Private-lightgrey)](https://github.com/fedyacpp/telegram-mesh-bot)
 
-A **currently** private project focused on reverse engineering the [МЭШ](https://school.mos.ru) API to develop a Telegram bot. This project aims to integrate МЭШ functionalities into a Telegram interface, allowing users to interact with МЭШ services seamlessly.
+> **Пока что приватный проект**, в котором я реверс-инжинирю API [МЭШ](https://school.mos.ru). Цель — интегрировать функции МЭШ в удобный Telegram-бот в качестве итогового проекта для школы.
 
-## 🌐 Let's Connect!
+---
 
-Got a cool project idea or want to collaborate? I'd love to hear from you:
+## 🌐 Как связаться
 
-[![Discord](https://img.shields.io/badge/Discord-fedyacpp-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/fedyacpp)
-[![Telegram](https://img.shields.io/badge/Telegram-fedyacpp-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fedyacpp)
+Есть идея для проекта или хочешь посотрудничать? Я всегда готов к новым вызовам!
 
-Feel free to reach out for inquiries, project proposals, or potential collaborations!
+<p align="center">
+  <a href="https://discord.com/users/fedyacpp">
+    <img src="https://img.shields.io/badge/Discord-fedyacpp-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://t.me/fedyacpp">
+    <img src="https://img.shields.io/badge/Telegram-fedyacpp-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
+
+> Пиши, если есть вопросы, идеи или предложения по сотрудничеству!
+
+---
