@@ -39,7 +39,7 @@ const fedyacpp = {
         },
         databases: ["MySQL"],
     },
-    currentProject: "telegram-mesh-bot"
+    currentProject: "my-MAX"
 };
 ```
 
